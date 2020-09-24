@@ -1,7 +1,6 @@
-
-<h1 style="text-align:center;">Proyectos de programación</h1>
-<h3>23/sept/2020</h3>	
-
+<div style="text-align:center;">
+	<h1 style="text-align:center;">Proyectos de programación</h1>
+	<h3>23/sept/2020</h3>	
 <p>
 	Descripción:
 </p>
@@ -18,5 +17,15 @@
 		<td>Abner David Del Cid Gabriel</td>
 	</tr>
 </table>
+<p>Enlaces</p>
+<ul>
+	<li>Archivo 1</li>
+	<li>Archivo 2</li>
+	<li>Archivo 3</li>
+</ul>
+</div>
+
+
+
 
 
