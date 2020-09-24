@@ -1,7 +1,7 @@
-<center>
-<h1>Proyectos de programación</h1>
+
+<h1 style="text-align:center;">Proyectos de programación</h1>
 <h3>23/sept/2020</h3>	
-</center>
+
 <p>
 	Descripción:
 </p>
