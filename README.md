@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="text-align:center; width: 90%; margin: auto;">
 	<h1 style="text-align:center;">Proyectos de programación</h1>
 	<h3>23/sept/2020</h3>	
 <p>
