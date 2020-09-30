@@ -26,7 +26,7 @@
 </div>
 <table>
 	<tr>
-		<td><img src="logousac.jpg"></td>
+		<td><img src="logousac.jpg" style="width: 350px; height: 350px;"></td>
 		<td><img src="logoefpem.jpg"></td>
 	</tr>
 </table>
