@@ -24,7 +24,12 @@
 	<li>Archivo 3</li>
 </ul>
 </div>
-
+<table>
+	<tr>
+		<td><img src="logousac.jpg"></td>
+		<td><img src="logoefpem.jpg"></td>
+	</tr>
+</table>
 
 
 
